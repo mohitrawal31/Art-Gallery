@@ -1,0 +1,24 @@
+/* CSS Document */
+#logo{ padding:10px; margin-top:10px; }
+
+#menu
+a
+{
+float:center;
+width:8em;
+color: #990000;
+border-right: double #99CCFF;
+}
+
+li{display:inline;
+}
+#lsidebar
+{  border-right: double #333; float:left; }
+#container{margin-left:150px; height:350px; float:none;}
+#features{ border-bottom: double #333; width:210px; height:80; clear:both;}
+#box{ margin-left:20px; height:120; width:800; float:none; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; }
+#img{ float:left;}
+#text{ width:600; clear:left; float:none}
+
+a:hover{ background-color: #666666};
+li{display:inline;
